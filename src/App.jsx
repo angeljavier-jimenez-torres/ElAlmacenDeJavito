@@ -29,7 +29,7 @@ const siteProps = {
   email: "javier.jimenez.torres.27@gmail.com",
   gitHub: "angeljavier-jimenez-torres",
   instagram: "",
-  linkedIn: "www.linkedin.com/in/javier-jiménez-torres-b09758291",
+  linkedIn: "javier-jiménez-torres-b09758291",
   medium: "",
   twitter: "",
   youTube: "",
