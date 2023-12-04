@@ -28,7 +28,7 @@ const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
-      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
+      <div style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -50%)", color: "white", textAlign: "center" }}>
         <h1>{name}</h1>
         <h2>{title}</h2>
       </div>
@@ -37,6 +37,11 @@ const Home = ({ name, title }) => {
       </div>
     </section>
   );
+};
+
+Home.defaultProps = {
+  name: "",
+  title: "",
 };
 
 Home.defaultProps = {
