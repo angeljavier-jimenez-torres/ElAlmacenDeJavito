@@ -136,3 +136,18 @@ img.socialIcon {
     transform: translateX(0);
   }
 }
+
+/* Define the animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Apply the animation to the image */
+.background {
+  animation: fadeIn 5s ease-in-out;
+}
