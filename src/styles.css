@@ -149,5 +149,5 @@ img.socialIcon {
 
 /* Apply the animation to the image */
 .background {
-  animation: fadeIn 5s ease-in-out;
+  animation: fadeIn 2s ease-in-out;
 }
