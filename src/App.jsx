@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Javier Jimenez",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Estudiante de Ingeniería de Software",
+  email: "javier.jimenez.torres.27@gmail.com",
+  gitHub: "angeljavier-jimenez-torres",
+  instagram: "",
+  linkedIn: "www.linkedin.com/in/javier-jiménez-torres-b09758291",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
