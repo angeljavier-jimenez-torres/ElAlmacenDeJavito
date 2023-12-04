@@ -140,7 +140,7 @@ img.socialIcon {
 /* Define the animation */
 @keyframes fadeIn {
   0% {
-    opacity: 0;
+    opacity: 0.5;
   }
   100% {
     opacity: 1;
@@ -149,5 +149,5 @@ img.socialIcon {
 
 /* Apply the animation to the image */
 .background {
-  animation: fadeIn 2s ease-in-out;
+  animation: fadeIn 1s ease-in-out;
 }
