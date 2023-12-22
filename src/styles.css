@@ -151,3 +151,15 @@ img.socialIcon {
 .background {
   animation: fadeIn 1s ease-in-out;
 }
+
+/* Estilos para el modo claro */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
