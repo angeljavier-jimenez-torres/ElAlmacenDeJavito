@@ -26,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Javier Jiménez Torres",
-  title: "Estudiante de Ingeniería de Software",
+  title: "Estudiante de Ingeniería del Software",
   email: "javier.jimenez.torres.27@gmail.com",
   gitHub: "angeljavier-jimenez-torres",
   instagram: "",
